@@ -1,0 +1,93 @@
+#EXTM3U
+
+#EXTINF:-1 , HBO LATINO
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+
+
+#EXTINF:-2, HBO2
+https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+
+#EXTINF:-3 , HBO2 PLUS
+https://edge3.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
+
+#EXTINF:-4, HBO SIGNATURE
+https://edge3.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
+
+#EXTINF:-5 , HBO EXTREME
+https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
+
+#EXTINF:-6 , CINEMAX
+https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+
+#EXTINF:-7 ,CINECANAL
+https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
+#EXTINF:-8 ,AMC
+https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+
+#EXTINF:-9 ,TNT
+https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+
+#EXTINF:-10 ,TCM
+https://edge3.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
+
+#EXTINF:-11 ,SYFY
+https://edge3.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
+
+#EXTINF:-12 ,FX
+https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+
+#EXTINF:-13 ,SPACE
+https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
+#EXTINF:-14 ,COMEDY CENTRAL
+https://edge3.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
+
+#EXTINF:-15 ,PARAMOUNT CHANNEL
+https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+
+#EXTINF:-16 ,WARNER CHANNEL
+https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
+#EXTINF:-17 ,TBS
+https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+
+#EXTINF:-18 ,SONY COMEDIAS
+https://spt-comedias-1-us.samsung.wurl.tv/2000.m3u8
+
+#EXTINF:-19 ,TRU
+https://edge3.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+
+#EXTINF:-20 ,DISCOVERY CHANNEL
+https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
+
+#EXTINF:-21 ,TLC 
+https://edge3.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
+
+#EXTINF:-22 ,DISCOVERY HOME AND HEALTH
+https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-23 ,NATGEO
+https://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+#EXTINF:-24 ,A AND E
+https://edge3.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+
+#EXTINF:-25 ,ESPN
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-avc1_899968=10003.m3u8
+
+#EXTINF:-26 ,FOX SPORTS
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2022/07/03/C_A_Huracn_vs_River_Plate_20220703_1656886800255/audio-1-128K/128_slide.m3u8
+
+#EXTINF:-27 ,FOXSPORTS2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_151.m3u8
+
+
+#EXTINF:-28 , VENUS
+https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
+
+#EXTINF:-29 , PLAYBOY
+https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+
+#EXTINF:-30 , SEXTREME
+https://edge3.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
